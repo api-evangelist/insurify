@@ -12,7 +12,7 @@ description: >-
   handles end-to-end shopping conversations with bind-ready quotes and
   renewal-cycle re-shopping. In February 2026 Insurify launched the
   insurance industry's first ChatGPT app via OpenAI's app library.
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Insurance
   - Marketplace
@@ -35,7 +35,7 @@ apis:
       carriers, with AI-powered declaration page scanning for policy upload
       and real-time price-drop alerts. No public API; carrier connectivity is
       backend-only.
-    image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://insurify.com/
     baseURL: https://insurify.com
     tags:
@@ -59,7 +59,7 @@ apis:
       re-shop when better rates appear. Originally launched as a virtual
       agent to skip long insurance forms; now positioned as a carrier-facing
       AI agent capability. Integration is sales-led.
-    image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://insurify.com/
     baseURL: https://insurify.com
     tags:
@@ -81,7 +81,7 @@ apis:
       app in OpenAI's app directory. Lets users browse, research, and compare
       car insurance directly inside ChatGPT, with full quoting handing off to
       insurify.com via the platform's carrier API connectivity.
-    image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://insurify.com/
     baseURL: https://insurify.com
     tags:
