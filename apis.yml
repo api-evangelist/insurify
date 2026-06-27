@@ -46,7 +46,7 @@ apis:
     properties:
       - type: ProductPage
         url: https://insurify.com/
-      - type: Reviews
+      - type: Review
         url: https://insurify.com/reviews/
       - type: Partnerships
         url: https://insurify.com/company/partnerships/
