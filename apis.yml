@@ -96,6 +96,8 @@ apis:
       - type: CarrierManagementCoverage
         url: https://www.carriermanagement.com/news/2026/02/10/284411.htm
 common:
+  - type: DomainSecurity
+    url: security/insurify-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/insurify
   - type: Website
@@ -110,6 +112,8 @@ common:
     url: rate-limits/insurify-rate-limits.yml
   - type: FinOps
     url: finops/insurify-finops.yml
+  - url: https://insurify.com/sitemap-insights.xml
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
