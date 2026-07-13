@@ -1,0 +1,14 @@
+{
+  "repo": "insurify",
+  "feeds": [
+    {
+      "source": "https://insurify.com/sitemap-insights.xml",
+      "feed_url": "https://insurify.com/sitemap-insights.xml",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    }
+  ],
+  "fetched": "2026-07-11T11:50:51Z",
+  "post_count": 36
+}
