@@ -12,7 +12,19 @@ description: >-
   handles end-to-end shopping conversations with bind-ready quotes and
   renewal-cycle re-shopping. In February 2026 Insurify launched the
   insurance industry's first ChatGPT app via OpenAI's app library.
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: free
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Free
+  confidence: medium
+  source:
+    - plans
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/insurify.png
 tags:
   - Insurance
   - Marketplace
@@ -25,7 +37,7 @@ tags:
   - Voice
   - Carrier Integration
 created: '2026-05-23'
-modified: '2026-05-23'
+modified: '2026-07-25'
 specificationVersion: '0.19'
 apis:
   - aid: insurify:consumer-marketplace
@@ -50,51 +62,6 @@ apis:
         url: https://insurify.com/reviews/
       - type: Partnerships
         url: https://insurify.com/company/partnerships/
-  - aid: insurify:evia-ai-agent
-    name: Evia AI Agent
-    description: >-
-      Evia (Expert Virtual Insurance Agent) is Insurify's AI agent for
-      end-to-end insurance shopping over voice or chat. Returns bind-ready
-      quotes in real time across 100+ carriers and tracks renewal cycles to
-      re-shop when better rates appear. Originally launched as a virtual
-      agent to skip long insurance forms; now positioned as a carrier-facing
-      AI agent capability. Integration is sales-led.
-    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
-    humanURL: https://insurify.com/
-    baseURL: https://insurify.com
-    tags:
-      - AI Agent
-      - Voice
-      - Chat
-      - Bind-Ready Quote
-      - Renewals
-      - B2B
-    properties:
-      - type: AboutEvia
-        url: https://insurify.com/insights/insurify-evia/
-      - type: FoundersInterview
-        url: https://www.insurancejournal.com/news/national/2026/03/10/861194.htm
-  - aid: insurify:chatgpt-app
-    name: Insurify ChatGPT App
-    description: >-
-      Insurify's ChatGPT app, launched February 2026 as the first insurance
-      app in OpenAI's app directory. Lets users browse, research, and compare
-      car insurance directly inside ChatGPT, with full quoting handing off to
-      insurify.com via the platform's carrier API connectivity.
-    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
-    humanURL: https://insurify.com/
-    baseURL: https://insurify.com
-    tags:
-      - ChatGPT
-      - AI App
-      - OpenAI
-      - Conversational
-      - Quote
-    properties:
-      - type: LaunchAnnouncement
-        url: https://www.prnewswire.com/news-releases/insurify-launches-industry-first-chatgpt-insurance-comparison-app-302682073.html
-      - type: CarrierManagementCoverage
-        url: https://www.carriermanagement.com/news/2026/02/10/284411.htm
 common:
   - type: DomainSecurity
     url: security/insurify-domain-security.yml
