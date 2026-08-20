@@ -31,6 +31,17 @@ tags:
   - Comparison
   - AI Agents
   - Auto
+  - Homes
+  - Renters
+  - ChatGPT App
+  - Voice
+  - Carrier Integration
+tags_raw:
+  - Insurance
+  - Marketplace
+  - Comparison
+  - AI Agents
+  - Auto
   - Home
   - Renters
   - ChatGPT App
@@ -51,6 +62,11 @@ apis:
     humanURL: https://insurify.com/
     baseURL: https://insurify.com
     tags:
+      - Consumer
+      - Marketplace
+      - Quotes
+      - Comparison
+    tags_raw:
       - Consumer
       - Marketplace
       - Quote
