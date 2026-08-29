@@ -12,6 +12,17 @@ description: >-
   handles end-to-end shopping conversations with bind-ready quotes and
   renewal-cycle re-shopping. In February 2026 Insurify launched the
   insurance industry's first ChatGPT app via OpenAI's app library.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: free
   onboarding: unknown
