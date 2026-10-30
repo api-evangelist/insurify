@@ -1,4 +1,4 @@
-# insurify
+# Insurify
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,4 +64,102 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Insurify — insurance marketplace + Evia AI agents for carriers
+Insurify is an insurance comparison marketplace licensed in all 50 U.S. states with real-time API integrations into 120+ carriers (500+ across the carrier network), covering auto, home, renters, pet, commercial auto, life, motorcycle, and travel. Consumers get side-by-side quotes in roughly two minutes and can buy online or through licensed agents. Insurify's Evia AI agent (Expert Virtual Insurance Agent) is a voice-and-chat agent that handles end-to-end shopping conversations with bind-ready quotes and renewal-cycle re-shopping. In February 2026 Insurify launched the insurance industry's first ChatGPT app via OpenAI's app library.
+
+**Areas:** Insurance · Marketplace · Comparison · AI Agents · Auto · Homes · Renters · ChatGPT App · Voice · Carrier Integration
+
+## Insurify on APIs.io
+
+Everything profiled for Insurify is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/insurify/](https://apis.io/providers/insurify/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Insurify Consumer Marketplace](https://apis.io/apis/insurify/consumer-marketplace/) — Consumer comparison platform pulling real-time quotes from 120+ carriers, with AI-powered declaration page scanning for policy upload and real-time…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Insurify Domain Security](https://apis.io/security/insurify/insurify-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Insurify Plans Pricing](https://apis.io/plans/insurify/insurify-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Insurify Rate Limits](https://apis.io/rate-limits/insurify/insurify-rate-limits/)
+
+#### FinOps (1)
+
+What the API costs to run, by operation.
+
+- [Insurify Finops](https://apis.io/finops/insurify/insurify-finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://insurify.com/)
+- [Blog](https://insurify.com/sitemap-insights.xml)
+
+## API Evangelist rating
+
+**Kin Score 6.2** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 5.3 |
+
+**Agent readiness 0.6** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.3** — Insurance
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/insurify/](https://apis.io/providers/insurify/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Insurify: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/insurify/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
